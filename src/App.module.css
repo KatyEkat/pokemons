@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  background-color: #131313;
+}
+
+.app {
+  display: flex;
+  width: 1280px;
+  padding: 100px 150px;
+  flex-direction: column;
+  align-items: center;
+  gap: 54px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.info {
+  list-style: none;
+  line-height: 150%;
+  font-size: 17px;
+  font-weight: 500;
+  color: rgba(160, 160, 160, 1);
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 700;
+}
+.imgwrapper {
+  display: flex;
+  height: 200px;
+  text-align: center;
+  justify-content: center;
+}
+
+.pic {
+  object-fit: cover;
+  height: 100%;
+}

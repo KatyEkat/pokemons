@@ -1,0 +1,15 @@
+.pokemon_chip {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #1986ec;
+  border-radius: 44px;
+  margin: 3px 5px;
+  padding: 20px;
+  cursor: pointer;
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
