@@ -9,7 +9,7 @@
 
 ## Technologies
 
-React, axios, Javascript, css-modules, API.
+React, axios, Javascript, css-modules.
 
 ## Project link
 
