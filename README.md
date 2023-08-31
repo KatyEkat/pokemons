@@ -17,7 +17,7 @@ https://pokemons-nine-chi.vercel.app
 
 ## Instructions for launching the project
 
-<p>1. Clone a project from the repository on your pc with the command in the console.</p>
+<p>1. Clone the project from the repository on your pc with the command in the console.</p>
 
 ### `git clone`
 
@@ -34,5 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Contacts for communication on all issues
 
-• katyfrontend@gmail.com
-• Telegram safe_your_dreams
+<ul>
+    <li>katyfrontend@gmail.com</li>
+    <li>Telegram safe_your_dreams</li>
+</ul>
