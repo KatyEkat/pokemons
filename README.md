@@ -2,8 +2,10 @@
 
 ## Implemented functionality
 
-• Getting data from the API
-• Displaying data on a page
+<ul>
+    <li>Getting data from the API</li>
+    <li>Displaying data on a page</li>
+</ul>
 
 ## Technologies
 
