@@ -1,4 +1,4 @@
-# Pokemons app"
+# Pokemons app
 
 ## Implemented functionality
 
