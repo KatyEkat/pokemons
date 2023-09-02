@@ -1,4 +1,4 @@
-# Test task on "Frontend develop (React)"
+# Pokemons app"
 
 ## Implemented functionality
 
