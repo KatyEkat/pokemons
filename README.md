@@ -36,5 +36,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <ul>
     <li>katyfrontend@gmail.com</li>
-    <li>Telegram safe_your_dreams</li>
+    <li>Telegram katyEkat</li>
 </ul>
